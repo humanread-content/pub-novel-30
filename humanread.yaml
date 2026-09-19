@@ -1,0 +1,68 @@
+version: 1
+title: '샤오타오의 이야기 정원: 싹을 잡아당기면'
+slug: translation-26-ko-f3d96a
+summary: 싹이 빨리 자라기를 바란 아허. 하지만 잡아당긴 싹은 시들고 맙니다. 샤오타오와 쑹 할아버지가 흙 속의 까닭을 함께 찾아보는 여섯
+  장면의 움직이는 그림책입니다.
+cover_color: '#458f87'
+cover_asset: null
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: ko
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: d8ee812db50f3a909a53444d8c90a530d16ac5dd7f465ecada103c800d275e71
+  source_novel_id: 26
+  source_slug: novel-f0a7e7be-6de102
+  source_title: 小桃的成語小院：揠苗助長
+  source_version_id: 57
+  target_language: ko
+  translator: Humanread Founder
+chapters:
+- id: 689
+  title: 대나무 막대의 진흙 표시
+  position: 1
+  file: chapters/0001-689.html
+  format: sandbox-html-css
+  share_card: null
+- id: 690
+  title: 물 한 주전자와 성급한 생각
+  position: 2
+  file: chapters/0002-690.html
+  format: sandbox-html-css
+  share_card: null
+- id: 691
+  title: 잎은 위로, 뿌리는 밖으로
+  position: 3
+  file: chapters/0003-691.html
+  format: sandbox-html-css
+  share_card: null
+- id: 692
+  title: 잡아당기지 않은 한 포기
+  position: 4
+  file: chapters/0004-692.html
+  format: sandbox-html-css
+  share_card: null
+- id: 693
+  title: 흙 아래에 있던 답
+  position: 5
+  file: chapters/0005-693.html
+  format: sandbox-html-css
+  share_card: null
+- id: 694
+  title: 돌보고 기다리는 시간
+  position: 6
+  file: chapters/0006-694.html
+  format: sandbox-html-css
+  share_card: null
